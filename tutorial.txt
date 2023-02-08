@@ -1,2 +1,2 @@
 from here!
-https://go.dev/doc/tutorial/create-module
+https://go.dev/doc/tutorial/handle-errors
