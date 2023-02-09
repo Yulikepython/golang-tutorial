@@ -1,2 +1,2 @@
 from here!
-https://go.dev/doc/tutorial/handle-errors
+https://go.dev/doc/tutorial/add-a-test
