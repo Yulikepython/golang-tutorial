@@ -12,6 +12,7 @@ func Hello(name string) (string, error) {
 		return "", errors.New("名前が空っぽです")
 	} else {
 		message := fmt.Sprintf(randomFormat(), name)
+		// message := fmt.Sprintf(randomFormat())
 		return message, nil
 	}
 }

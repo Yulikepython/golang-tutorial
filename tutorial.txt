@@ -1,2 +1,2 @@
 from here!
-https://go.dev/doc/tutorial/add-a-test
+https://go.dev/doc/tutorial/compile-install
